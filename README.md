@@ -8,7 +8,7 @@ Unity版本：2018.3.7f1
 
 
 ***
-<img width="50%" height="50%" src="https://github.com/Ls-Jan/Unity_Demo_Chase/blob/main/RunningDisplay%5BMP4%2CGIF%5D/2.png">
+<img src="https://github.com/Ls-Jan/Unity_Demo_Chase/blob/main/RunningDisplay%5BMP4%2CGIF%5D/2.png">
 
 
     private static Vector2 Forecast(Vector2 posA, Vector2 posB, Vector2 vector_A, float speed_B) {//子弹预测，返回子弹B的速度矢量(如果为0说明子弹追不上)
