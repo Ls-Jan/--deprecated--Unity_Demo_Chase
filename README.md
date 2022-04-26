@@ -6,7 +6,7 @@
 Unity版本：2018.3.7f1
 
 
-<img width="75%" height="75%" src="https://github.com/Ls-Jan/Unity_Demo_Chase/blob/main/RunningDisplay%5BMP4%2CGIF%5D/0.gif">
+<img src="https://github.com/Ls-Jan/Unity_Demo_Chase/blob/main/RunningDisplay%5BMP4%2CGIF%5D/0.gif">
 
 
 
