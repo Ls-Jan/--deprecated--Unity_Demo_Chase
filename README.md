@@ -1,10 +1,13 @@
 # Unity_Demo_Chase
-原本是打算研究两物体的追逐算法的，然后为了看自己写的破算法对不对就顺手用了Unity运行一下。
+原本是研究两物体的追逐算法的，然后为了看自己写的破算法对不对就用Unity运行一下。
+
+结果感觉还有点好玩就稍微完善了一下，例如添加滑动条即时修改子弹速度、添加小箭头表示子弹发射方向。
 
 Unity版本：2018.3.7f1
 
 
-<img width="50%" height="50%" src="https://github.com/Ls-Jan/Unity_Demo_Chase/blob/main/RunningDisplay%5BMP4%2CGIF%5D/0.gif">
+<img width="75%" height="75%" src="https://github.com/Ls-Jan/Unity_Demo_Chase/blob/main/RunningDisplay%5BMP4%2CGIF%5D/0.gif">
+
 
 
 ***
