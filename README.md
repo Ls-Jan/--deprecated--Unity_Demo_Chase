@@ -1,5 +1,6 @@
 # Unity_Demo_Chase
-原本是打算研究两物体的追逐算法的，然后为了看自己写的破算法对不对就顺手用了Unity运行一下。Unity版本：2018.3.7f1
+原本是打算研究两物体的追逐算法的，然后为了看自己写的破算法对不对就顺手用了Unity运行一下。
+Unity版本：2018.3.7f1
 <img width="50%" height="50%" src="https://github.com/Ls-Jan/Unity_Demo_Chase/blob/main/RunningDisplay%5BMP4%2CGIF%5D/0.gif">
 
 
